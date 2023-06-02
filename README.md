@@ -1,23 +1,23 @@
 # Industrial_Training_python
-# Q1 : For a list L = [10, 20, 30, 40,-1,50,-2,-5] do below task:
-#       A] : Multiply every elements in list by 2 and save these elements in other list
-#            L1 using list Comprehension, and print L1
-#        B]: Multiply every elements in list by 2 and save only elements which are positive in other list L2
-#           using list Comprehension , and print L2
-#
-# Q2 : Write a Lambda function to find multiplication of two number.
-#
-# Q3 : A] Write a function FINDMAX(a,b) to  find maximum of given number a and b
-#      B] Using map function and FINDMAX(a,b) function using find  maximum value in list L = [10, 20, 30, 40,-1,50,-2,-5]
-#
-# Q4 : A] Write a function IsPositive(a) which will  take one parameter and return True if number is greater than zero
-#       Else return False
-#      B] Using filer function and  IsPositive function find only positive number is list L = [10, 20, 30, 40,-1,50,-2,-5]
-#
-#Q5  : A] Write a function MUL(a,b) to multiply two given numbers
-#      B] Using reduce function and MUL(a,b) function find multiplication of all elements of the list
+Q1 : For a list L = [10, 20, 30, 40,-1,50,-2,-5] do below task:
+       A] : Multiply every elements in list by 2 and save these elements in other list
+            L1 using list Comprehension, and print L1
+        B]: Multiply every elements in list by 2 and save only elements which are positive in other list L2
+           using list Comprehension , and print L2
 
-Level - 2
+ Q2 : Write a Lambda function to find multiplication of two number.
+
+ Q3 : A] Write a function FINDMAX(a,b) to  find maximum of given number a and b
+      B] Using map function and FINDMAX(a,b) function using find  maximum value in list L = [10, 20, 30, 40,-1,50,-2,-5]
+
+ Q4 : A] Write a function IsPositive(a) which will  take one parameter and return True if number is greater than zero
+       Else return False
+      B] Using filer function and  IsPositive function find only positive number is list L = [10, 20, 30, 40,-1,50,-2,-5]
+
+Q5  : A] Write a function MUL(a,b) to multiply two given numbers
+      B] Using reduce function and MUL(a,b) function find multiplication of all elements of the list
+
+#Level - 2
 
 1.Calculate the factorial of a number by creating a function ‘calFactorial’.
 
